@@ -1,0 +1,377 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="eb17db4b-b302-4fae-a23d-0fa3ad610247" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../amazontest/amazontest.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../amazontest/drivers/chromedriver.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../amazontest/drivers/msedgedriver.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../amazontest/src/BaseTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../amazontest/src/TestSuite.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../homework.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sample-maven-project/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sample-maven-project/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sample-maven-project/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sample-maven-project/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sample-maven-project/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sample-maven-project/.idea/runConfigurations.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sample-maven-project/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sample-maven-project/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sample-maven-project/src/main/java/com/nopcommerce/demo/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sample-maven-project/src/main/java/com/nopcommerce/demo/drivermanager/DriverManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sample-maven-project/src/main/java/com/nopcommerce/demo/pages/HomePage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sample-maven-project/src/main/java/com/nopcommerce/demo/pages/LoginPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sample-maven-project/src/main/java/com/nopcommerce/demo/propertyreader/PropertyReader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sample-maven-project/src/main/java/com/nopcommerce/demo/utility/Utility.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sample-maven-project/src/test/java/com/nopcommerce/demo/AppTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sample-maven-project/src/test/java/com/nopcommerce/demo/testbase/TestBase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sample-maven-project/src/test/java/com/nopcommerce/demo/testsuite/LoginPageTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sample-maven-project/src/test/java/resources/propertiesfile/config.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week-12/drivers/chromedriver.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week-12/src/basetest/BaseTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week-12/src/computer/TestSuite.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week-12/src/electronics/ElectronicsTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week-12/src/homepage/TopMenuTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week-12/src/utility/Utility.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week-12/week-12.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/runConfigurations.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/nopcommerce/demo/drivermanager/DriverManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/nopcommerce/demo/pages/ComputerMenu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/nopcommerce/demo/pages/Electronics.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/nopcommerce/demo/pages/ShoppingCart.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/nopcommerce/demo/pages/TopMenu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/nopcommerce/demo/propertyreader/PropertyReader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/nopcommerce/demo/utility/Utility.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/nopcommerce/demo/testbase/TestBase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/nopcommerce/demo/testsuite/ComputerTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/nopcommerce/demo/testsuite/ElectronicsTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/nopcommerce/demo/testsuite/ShopingCartTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/nopcommerce/demo/testsuite/TopMenuTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/resources/propertiesfile/config.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/nopcommerce/demo/drivermanager/DriverManager.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/nopcommerce/demo/pages/ComputerMenu.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/nopcommerce/demo/propertyreader/PropertyReader.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/nopcommerce/demo/utility/Utility.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-TestSuite.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/surefire-reports/TestSuite.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/surefire-reports/testng-junit-results/Surefire suite/Surefire test.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/surefire-reports/testng-junit-results/Surefire suite/Surefire test.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/surefire-reports/testng-junit-results/bullet_point.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/surefire-reports/testng-junit-results/collapseall.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/surefire-reports/testng-junit-results/emailable-report.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/surefire-reports/testng-junit-results/failed.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/surefire-reports/testng-junit-results/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/surefire-reports/testng-junit-results/jquery-1.7.1.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/surefire-reports/testng-junit-results/junitreports/TEST-com.nopcommerce.demo.AppTest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/surefire-reports/testng-junit-results/navigator-bullet.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/surefire-reports/testng-junit-results/old/Surefire suite/Surefire test.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/surefire-reports/testng-junit-results/old/Surefire suite/classes.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/surefire-reports/testng-junit-results/old/Surefire suite/groups.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/surefire-reports/testng-junit-results/old/Surefire suite/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/surefire-reports/testng-junit-results/old/Surefire suite/main.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/surefire-reports/testng-junit-results/old/Surefire suite/methods-alphabetical.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/surefire-reports/testng-junit-results/old/Surefire suite/methods-not-run.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/surefire-reports/testng-junit-results/old/Surefire suite/methods.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/surefire-reports/testng-junit-results/old/Surefire suite/reporter-output.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/surefire-reports/testng-junit-results/old/Surefire suite/testng.xml.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/surefire-reports/testng-junit-results/old/Surefire suite/toc.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/surefire-reports/testng-junit-results/old/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/surefire-reports/testng-junit-results/passed.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/surefire-reports/testng-junit-results/skipped.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/surefire-reports/testng-junit-results/testng-reports.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/surefire-reports/testng-junit-results/testng-reports.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/surefire-reports/testng-junit-results/testng-results.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/surefire-reports/testng-junit-results/testng.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/surefire-reports/testng-native-results/Surefire suite/Surefire test.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/surefire-reports/testng-native-results/Surefire suite/Surefire test.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/surefire-reports/testng-native-results/Surefire suite/testng-failed.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/surefire-reports/testng-native-results/bullet_point.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/surefire-reports/testng-native-results/collapseall.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/surefire-reports/testng-native-results/emailable-report.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/surefire-reports/testng-native-results/failed.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/surefire-reports/testng-native-results/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/surefire-reports/testng-native-results/jquery-1.7.1.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/surefire-reports/testng-native-results/junitreports/TEST-com.nopcommerce.demo.testsuite.LoginPageTest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/surefire-reports/testng-native-results/navigator-bullet.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/surefire-reports/testng-native-results/old/Surefire suite/Surefire test.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/surefire-reports/testng-native-results/old/Surefire suite/classes.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/surefire-reports/testng-native-results/old/Surefire suite/groups.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/surefire-reports/testng-native-results/old/Surefire suite/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/surefire-reports/testng-native-results/old/Surefire suite/main.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/surefire-reports/testng-native-results/old/Surefire suite/methods-alphabetical.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/surefire-reports/testng-native-results/old/Surefire suite/methods-not-run.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/surefire-reports/testng-native-results/old/Surefire suite/methods.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/surefire-reports/testng-native-results/old/Surefire suite/reporter-output.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/surefire-reports/testng-native-results/old/Surefire suite/testng.xml.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/surefire-reports/testng-native-results/old/Surefire suite/toc.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/surefire-reports/testng-native-results/old/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/surefire-reports/testng-native-results/passed.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/surefire-reports/testng-native-results/skipped.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/surefire-reports/testng-native-results/testng-failed.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/surefire-reports/testng-native-results/testng-reports.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/surefire-reports/testng-native-results/testng-reports.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/surefire-reports/testng-native-results/testng-results.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/surefire-reports/testng-native-results/testng.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/com/nopcommerce/demo/testbase/TestBase.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week_10/drivers/IEDriverServer.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week_10/drivers/chromedriver.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week_10/drivers/geckodriver.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week_10/drivers/msedgedriver.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week_10/src/barclays/Chrome_Browser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week_10/src/barclays/Fire_Fox.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week_10/src/barclays/Internet_Explorer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week_10/src/barclays/Microsoft_Edge.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week_10/src/barclays/Multiple_Browser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week_10/src/harrow/gov/Chrome_Browser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week_10/src/harrow/gov/Fire_Fox.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week_10/src/harrow/gov/Internet_Explorer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week_10/src/harrow/gov/Microsoft_Edge.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week_10/src/harrow/gov/Multiple_Browser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week_10/src/nopcommerce/Chrome_Browser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week_10/src/nopcommerce/Fire_Fox.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week_10/src/nopcommerce/Internet_Explorer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week_10/src/nopcommerce/Microsoft_Edge.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week_10/src/nopcommerce/Multiple_Browser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week_10/src/wcht/org/Chrome_Browser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week_10/src/wcht/org/Fire_Fox.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week_10/src/wcht/org/Internet_Explorer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week_10/src/wcht/org/Microsoft_Edge.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week_10/src/wcht/org/Multiple_Browser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week_10/src/xcart/Chrome_Browser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week_10/src/xcart/Fire_Fox.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week_10/src/xcart/Internet_Explorer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week_10/src/xcart/Microsoft_Edge.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week_10/src/xcart/Multiple_Browser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week_10/week_10.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week_11/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week_11/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week_11/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week_11/.idea/runConfigurations.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week_11/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week_11/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week_11/drivers/chromedriver.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week_11/drivers/geckodriver.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week_11/src/basetest/BaseTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week_11/src/homework1/Homework1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week_11/src/homework2/HomeWork2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week_11/src/homework3/HomeWork3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week_11/src/homework4/HomeWork4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week_11/week_11.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../xcart-marven/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../xcart-marven/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../xcart-marven/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../xcart-marven/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../xcart-marven/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../xcart-marven/.idea/runConfigurations.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../xcart-marven/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../xcart-marven/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../xcart-marven/src/main/java/com/xcart/demo/driverManager/DriverManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../xcart-marven/src/main/java/com/xcart/demo/pages/HotDeal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../xcart-marven/src/main/java/com/xcart/demo/pages/TopMenu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../xcart-marven/src/main/java/com/xcart/demo/propertyreader/PropertyReader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../xcart-marven/src/main/java/com/xcart/demo/utility/Utility.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../xcart-marven/src/test/java/com/xcart/demo/testbase/TestBase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../xcart-marven/src/test/java/com/xcart/demo/testsuite/HotDealTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../xcart-marven/src/test/java/com/xcart/demo/testsuite/TopMenuTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../xcart-marven/src/test/java/resources/propertiesfile/config.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../xcart-marven/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../xcart-marven/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../xcart-marven/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../xcart-marven/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../xcart-marven/target/surefire-reports/TEST-com.xcart.demo.AppTest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../xcart-marven/target/surefire-reports/com.xcart.demo.AppTest.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../xcartdemo/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../xcartdemo/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../xcartdemo/.idea/runConfigurations.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../xcartdemo/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../xcartdemo/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../xcartdemo/drivers/chromedriver.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../xcartdemo/src/basetest/BaseTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../xcartdemo/src/homepage/TopMenuTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../xcartdemo/src/hotdeals/HotDealsTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../xcartdemo/src/shopping/ShoppingTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../xcartdemo/src/utility/Utility.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../xcartdemo/xcartdemo.iml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="21XtAnRrqscHI7PDkSaFS19czum" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/test/java" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Toshiba\homework\week-13-maven-nopcom\src\test\java" />
+      <recent name="C:\Users\Toshiba\homework\week-13-maven-nopcom\src\main\java\com\nopcommerce\demo" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.nopcommerce.demo.testsuite" />
+      <recent name="com.nopcommerce.demo.testbase" />
+      <recent name="com.nopcommerce.demo.utility" />
+      <recent name="com.nopcommerce.demo.propertyreader" />
+      <recent name="com.nopcommerce.demo.drivermanager" />
+    </key>
+  </component>
+  <component name="RunManager" selected="TestNG.ElectronicsTest.verifyThatTheProductAddedSuccessfullyAndPlaceOrderSuccessfully">
+    <configuration name="ComputerTest.verifyProductArrangeInAlphaBaticalOrder" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="week-13-maven-nopcom" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.nopcommerce.demo.testsuite.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.nopcommerce.demo.testsuite" />
+      <option name="MAIN_CLASS_NAME" value="com.nopcommerce.demo.testsuite.ComputerTest" />
+      <option name="METHOD_NAME" value="verifyProductArrangeInAlphaBaticalOrder" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ElectronicsTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="week-13-maven-nopcom" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.nopcommerce.demo.testsuite.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.nopcommerce.demo.testsuite" />
+      <option name="MAIN_CLASS_NAME" value="com.nopcommerce.demo.testsuite.ElectronicsTest" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ElectronicsTest.verifyThatTheProductAddedSuccessfullyAndPlaceOrderSuccessfully" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="week-13-maven-nopcom" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.nopcommerce.demo.testsuite.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.nopcommerce.demo.testsuite" />
+      <option name="MAIN_CLASS_NAME" value="com.nopcommerce.demo.testsuite.ElectronicsTest" />
+      <option name="METHOD_NAME" value="verifyThatTheProductAddedSuccessfullyAndPlaceOrderSuccessfully" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ElectronicsTest.verifyUserShouldNavigateToCellPhonesPageSuccessfully" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="week-13-maven-nopcom" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.nopcommerce.demo.testsuite.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.nopcommerce.demo.testsuite" />
+      <option name="MAIN_CLASS_NAME" value="com.nopcommerce.demo.testsuite.ElectronicsTest" />
+      <option name="METHOD_NAME" value="verifyUserShouldNavigateToCellPhonesPageSuccessfully" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TopMenuTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="week-13-maven-nopcom" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.nopcommerce.demo.testsuite.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.nopcommerce.demo.testsuite" />
+      <option name="MAIN_CLASS_NAME" value="com.nopcommerce.demo.testsuite.TopMenuTest" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.ElectronicsTest.verifyThatTheProductAddedSuccessfullyAndPlaceOrderSuccessfully" />
+        <item itemvalue="TestNG.ElectronicsTest.verifyUserShouldNavigateToCellPhonesPageSuccessfully" />
+        <item itemvalue="TestNG.ElectronicsTest" />
+        <item itemvalue="TestNG.TopMenuTest" />
+        <item itemvalue="TestNG.ComputerTest.verifyProductArrangeInAlphaBaticalOrder" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="eb17db4b-b302-4fae-a23d-0fa3ad610247" name="Changes" comment="" />
+      <created>1638099120550</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1638099120550</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>

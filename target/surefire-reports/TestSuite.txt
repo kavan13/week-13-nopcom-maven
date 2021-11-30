@@ -1,0 +1,10 @@
+-------------------------------------------------------------------------------
+Test set: TestSuite
+-------------------------------------------------------------------------------
+Tests run: 3, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 18.203 s <<< FAILURE! - in TestSuite
+verifyErrorMessageWithInvalidCredentials(com.nopcommerce.demo.testsuite.LoginPageTest)  Time elapsed: 2.552 s  <<< FAILURE!
+java.lang.AssertionError: 
+login not display expected [Login was unsuccessful. Please correct the errors and try again.
+No customer account found] but found [Login was unsuccessful. Please correct the errors and try again.No customer account found]
+	at com.nopcommerce.demo.testsuite.LoginPageTest.verifyErrorMessageWithInvalidCredentials(LoginPageTest.java:35)
+
